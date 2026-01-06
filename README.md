@@ -6,7 +6,7 @@ A sophisticated fishing forecast web application that provides dynamic "Bite Sco
 
 # 🔗 Links
 
-- **Website**: [https://fishcastplus.com](https://fishcastplus.se)
+- **Website**: [https://fishcastplus.se](https://fishcastplus.se)
 ---
 
 ## ✨ Features
